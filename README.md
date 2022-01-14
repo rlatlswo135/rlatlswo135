@@ -1,4 +1,7 @@
-### 👋 반갑다며 손인사 👋
+### Hello👋
+
+- 유리가공 출신
+- 주변이 덥고 열악한상황이어도 이는 악문다는뜻
 
 <!--
 **rlatlswo135/rlatlswo135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
