@@ -1,7 +1,7 @@
 ### Hello👋
 
-- 유리가공 출신
-- 주변이 덥고 열악한상황이어도 이는 악문다는뜻
+- 말을 뱉을때는 가볍게, 뱉을때 가슴은 뜨겁게
+- 궁금하면 직접해보자
 
 <!--
 **rlatlswo135/rlatlswo135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
