@@ -1,4 +1,4 @@
-### 👋 Hi there 👋
+### 👋 반갑다며 손인사 👋
 
 <!--
 **rlatlswo135/rlatlswo135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
