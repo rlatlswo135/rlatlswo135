@@ -1,7 +1,7 @@
 ### Hello👋
 
-- 말을 뱉을때는 가볍게, 뱉을때 가슴은 뜨겁게
-- 궁금하면 직접해보자
+- 끝까지 가보고 질문
+- 궁금한건 직접
 
 <!--
 **rlatlswo135/rlatlswo135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
