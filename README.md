@@ -1,7 +1,7 @@
 ### Hello👋
 
-- 끝까지 가보고 질문
-- 궁금한건 직접
+- 남이 알아주던 말던 나의것을 거짓없이 정직하고 성실하게
+
 
 <!--
 **rlatlswo135/rlatlswo135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
