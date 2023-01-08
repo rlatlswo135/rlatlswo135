@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=Redux-Saga&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black" />
 </span>
-
+<br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlatlswo135)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
