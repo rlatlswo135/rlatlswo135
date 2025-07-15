@@ -8,9 +8,6 @@
 <br />
 <br />
 <br />
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rlatlswo135)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **rlatlswo135/rlatlswo135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
